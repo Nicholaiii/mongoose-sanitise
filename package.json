@@ -1,6 +1,6 @@
 {
   "name": "mongoose-sanitise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sanitise a set of common sensitive fields, the easy way!",
   "main": "index.js",
   "scripts": {
