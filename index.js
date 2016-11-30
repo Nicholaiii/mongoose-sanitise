@@ -58,3 +58,5 @@ const sanitise = require('lodash.unset')
          transform
      })
  }
+
+module.exports = exports = mongooseSanitise
