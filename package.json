@@ -1,0 +1,34 @@
+{
+  "name": "mongoose-sanitise",
+  "version": "1.0.0",
+  "description": "Sanitise a set of common sensitive fields, the easy way!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholaiii/mongoose-sanitise.git"
+  },
+  "keywords": [
+    "mongoose",
+    "sanitise",
+    "sanitize",
+    "remove",
+    "fields",
+    "sensitive",
+    "password",
+    "hide",
+    "secret",
+    "delete"
+  ],
+  "author": "Nicholai Nissen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicholaiii/mongoose-sanitise/issues"
+  },
+  "homepage": "https://github.com/Nicholaiii/mongoose-sanitise#readme",
+  "dependencies": {
+    "lodash.unset": "^4.5.2"
+  }
+}
